@@ -1,0 +1,21 @@
+.button {
+  background: $kind-of-blue;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  font-size: $font-size-large;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+  line-height: 1;
+  padding: $s-size;
+  text-decoration: none;
+}
+
+.button__link {
+  background: none;
+}
+
+.button__secondary {
+  background: #888;
+}
